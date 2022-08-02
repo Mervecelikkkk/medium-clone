@@ -10,3 +10,11 @@ body {
     border-bottom:1px solid rgba(41,41,41,1)
 
 }
+
+.btn-start {
+    border-radius: 50px;
+    border-width: 1px;
+    font-weight: 400;
+    padding: 7px 20px 9px;
+    border-style: solid;
+}
