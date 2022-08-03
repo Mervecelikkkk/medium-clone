@@ -26,3 +26,8 @@ body {
 .border-top-dark {
     border-top:1px solid rgba(230, 230, 230, 1);
 }
+
+.logo {
+    height: 25px; 
+    width: 161px;
+}
