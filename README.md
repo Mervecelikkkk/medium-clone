@@ -1,5 +1,5 @@
 # medium-clone
-This repository contains my front-end training studies that I participated on patika.dev
+Simple HTML Medium clone made with Bootstrap.
 
 ![medium-1](https://user-images.githubusercontent.com/51165242/182686367-d5f41233-a277-4277-8944-90bd5af1c6a9.png)
 ![medium-2](https://user-images.githubusercontent.com/51165242/182687103-84a5f2e2-d355-4539-a300-a32fa810192e.png)
